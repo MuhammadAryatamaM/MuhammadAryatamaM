@@ -9,7 +9,7 @@ Welcome to my GitHub! I love exploring new technologies and building impactful p
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Mobile Apps using Flutter**
-- 🌱 I’m currently learning **Cyber Security, notably Cryptography**
+- 🌱 I’m currently learning **Cyber Security, Mobile Apps, Machine Learning, and Image Processing & Computer Vision.**
 - ⚡ Fun fact: **I like rhythm games! I mainly play Project Sekai, but I also find Arcaea and osu!mania interesting. Arcade exclusive games like maimai is also fun to play.**
 
 ---
